@@ -161,7 +161,7 @@ IDE 외에도 개발자들이 많이 사용하는 프로그램들을 살펴보�
 
 <br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/79047370/111064075-63bb3800-84f5-11eb-81f8-e0d1d177eb3b.jpg" width="60%" height="60%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/79047370/111064075-63bb3800-84f5-11eb-81f8-e0d1d177eb3b.jpg" width=320 height=480></p>
 <p align="right">출처 : https://pypl.github.io/PYPL.html</p>
 
 <br>
