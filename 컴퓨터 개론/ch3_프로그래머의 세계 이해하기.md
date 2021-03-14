@@ -154,13 +154,15 @@ IDE 외에도 개발자들이 많이 사용하는 프로그램들을 살펴보�
 
 그렇기 때문에 선택기준으로 많은 사용자가 있는지, 활발한지를 확인할 필요가 있다.
 
-<center><img src="https://redmonk.com/sogrady/files/2021/03/lang.rank_.0121.wm_-1024x805.png" width="60%" height="60%"></center>
-출처 : https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/
+<br>
+
+<p align="center"><img src="https://redmonk.com/sogrady/files/2021/03/lang.rank_.0121.wm_-1024x805.png" width="60%" height="60%"></p>
+<p align="right">출처 : https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/</p>
 
 <br>
 
-<center><img src="https://user-images.githubusercontent.com/79047370/111064075-63bb3800-84f5-11eb-81f8-e0d1d177eb3b.jpg" width="60%" height="60%"></center>
-출처 : https://pypl.github.io/PYPL.html
+<p align="center"><img src="https://user-images.githubusercontent.com/79047370/111064075-63bb3800-84f5-11eb-81f8-e0d1d177eb3b.jpg" width="60%" height="60%"></p>
+<p align="right">출처 : https://pypl.github.io/PYPL.html</p>
 
 <br>
 
