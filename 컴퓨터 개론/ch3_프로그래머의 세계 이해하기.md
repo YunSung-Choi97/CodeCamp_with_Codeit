@@ -159,10 +159,8 @@ IDE 외에도 개발자들이 많이 사용하는 프로그램들을 살펴보�
 
 <br>
 
-![프로그래밍 언어 트랜드](컴퓨터 개론/programming_language_trend_202003.jpg)
+![프로그래밍 언어 트랜드](https://user-images.githubusercontent.com/79047370/111064075-63bb3800-84f5-11eb-81f8-e0d1d177eb3b.jpg)
 출처 : https://pypl.github.io/PYPL.html
-
-
 
 <br>
 
